@@ -20,16 +20,16 @@ A disciplina aborda os seguintes tópicos principais:
 
 ## 🗂️ Estrutura do repositório
 
-- `Aula 1 - Apresentação da disciplina.PDF` – slides introdutórios com ementa, bibliografia e metodologia.
-- `Aula 3 - python basico/` – exemplos e exercícios em Python; possui 60 arquivos (`ex1.py` a `ex60.py`) criados para cada exercício.
-- `Aula 4 - json/` – código de demonstração de operações com JSON e outros exemplos (notebook convertido).
+- `Aula 1 - ementa` – introdutórios com ementa, bibliografia e metodologia.
+- `Aula 2 - python basico/` – exemplos e exercícios em Python; possui 60 arquivos (`ex1.py` a `ex60.py`) criados para cada exercício.
+- `Aula 3 - json/` – código de demonstração de operações com JSON e outros exemplos (notebook convertido).
 
 > Outras pastas podem ser adicionadas conforme o desenvolvimento da disciplina.
 
 ## 🛠️ Como usar
 
 1. Clone este repositório ou abra no VS Code Codespaces.
-2. Navegue até a pasta de interesse (`Aula 3 - python basico` ou `Aula 4 - json`).
+2. Navegue até a pasta de interesse (`Aula 2 - python basico` ou `Aula 3 - json`).
 3. Execute os scripts Python com `python3 ex1.py` ou abra o notebook em um ambiente compatível.
 
 Os arquivos `ex*.py` contêm apenas um comentário com o número do exercício; insira o código correspondente conforme as aulas progridem.
