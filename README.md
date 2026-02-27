@@ -16,7 +16,6 @@ A disciplina aborda os seguintes tópicos principais:
 - Análise de redes sociais
 - Business Intelligence
 
-> Os slides de apresentação, exemplos e exercícios estão organizados nas pastas do repositório.
 
 ## 🗂️ Estrutura do repositório
 
